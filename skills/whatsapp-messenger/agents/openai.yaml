@@ -1,0 +1,6 @@
+interface:
+  display_name: "WhatsApp Messenger"
+  short_description: "Send messages through local WhatsApp Desktop"
+  default_prompt: "Use $whatsapp-messenger to send this result to a WhatsApp contact or group."
+policy:
+  allow_implicit_invocation: true

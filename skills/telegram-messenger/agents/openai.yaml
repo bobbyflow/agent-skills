@@ -1,0 +1,6 @@
+interface:
+  display_name: "Telegram Messenger"
+  short_description: "Send messages through local Telegram Desktop"
+  default_prompt: "Use $telegram-messenger to send this result to a Telegram contact or group."
+policy:
+  allow_implicit_invocation: true

@@ -5,7 +5,24 @@ canonical_root: /Users/bobbc/Projects/agent-skills
 skills:
   - name: elon-algorithm
     path: skills/elon-algorithm
+    source_repo: https://github.com/bobbyflow/agent-skills
     description: First-principles project and workflow pruning using the ordered five-step Elon Algorithm.
+  - name: orchestrator-coach
+    path: skills/orchestrator-coach
+    source_repo: https://github.com/bobbyflow/orchestrator-coach-skill
+    description: Converts project history into architecture lessons and masterclass-style artifacts.
+  - name: telegram-messenger
+    path: skills/telegram-messenger
+    source_repo: https://github.com/bobbyflow/telegram-messenger-skill
+    description: Sends messages and images through local Telegram Desktop.
+  - name: wechat-messenger
+    path: skills/wechat-messenger
+    source_repo: https://github.com/bobbyflow/wechat-messenger-skill
+    description: Sends messages through local WeChat Desktop.
+  - name: whatsapp-messenger
+    path: skills/whatsapp-messenger
+    source_repo: https://github.com/bobbyflow/whatsapp-messenger-skill
+    description: Sends messages and images through local WhatsApp Desktop.
 agent_targets:
   codex: /Users/bobbc/.codex/skills
   claude: /Users/bobbc/.claude/skills

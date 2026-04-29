@@ -1,0 +1,6 @@
+interface:
+  display_name: "WeChat Messenger"
+  short_description: "Send messages through local WeChat Desktop"
+  default_prompt: "Use $wechat-messenger to send this result to a WeChat contact or File Transfer."
+policy:
+  allow_implicit_invocation: true

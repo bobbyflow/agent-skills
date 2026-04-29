@@ -1,0 +1,6 @@
+interface:
+  display_name: "Orchestrator Coach"
+  short_description: "Turn project history into architecture lessons"
+  default_prompt: "Use $orchestrator-coach to extract the architectural lesson from this work."
+policy:
+  allow_implicit_invocation: true
