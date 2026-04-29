@@ -1,0 +1,14 @@
+name: agent-skills
+owner: bobbyflow
+visibility: public
+canonical_root: /Users/bobbc/Projects/agent-skills
+skills:
+  - name: elon-algorithm
+    path: skills/elon-algorithm
+    description: First-principles project and workflow pruning using the ordered five-step Elon Algorithm.
+agent_targets:
+  codex: /Users/bobbc/.codex/skills
+  claude: /Users/bobbc/.claude/skills
+  gemini: /Users/bobbc/.gemini/skills
+  openclaw: /Users/bobbc/.openclaw/skills
+  hermes: /Users/bobbc/.hermes/skills
