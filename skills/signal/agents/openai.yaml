@@ -1,0 +1,6 @@
+interface:
+  display_name: "Signal"
+  short_description: "Extract the founder-level technical signal"
+  default_prompt: "Use $signal to tell me only what I must understand, decide, verify, and ignore."
+policy:
+  allow_implicit_invocation: true

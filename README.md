@@ -14,6 +14,7 @@ Public source-of-truth monorepo for portable AI-agent skills used across Bobby's
 | Skill | Purpose | Original source |
 |---|---|---|
 | `elon-algorithm` | Question requirements, delete, simplify, accelerate, automate last | This monorepo |
+| `signal` | Extract the founder decision, essential technical model, proof, and noise | This monorepo |
 | `orchestrator-coach` | Turn project history into architecture lessons | `bobbyflow/orchestrator-coach-skill` |
 | `telegram-messenger` | Send messages/images via local Telegram Desktop | `bobbyflow/telegram-messenger-skill` |
 | `wechat-messenger` | Send messages via local WeChat Desktop | `bobbyflow/wechat-messenger-skill` |

@@ -7,6 +7,10 @@ skills:
     path: skills/elon-algorithm
     source_repo: https://github.com/bobbyflow/agent-skills
     description: First-principles project and workflow pruning using the ordered five-step Elon Algorithm.
+  - name: signal
+    path: skills/signal
+    source_repo: https://github.com/bobbyflow/agent-skills
+    description: Filters technical work into the minimum sufficient founder decision, concepts, proof, and noise.
   - name: orchestrator-coach
     path: skills/orchestrator-coach
     source_repo: https://github.com/bobbyflow/orchestrator-coach-skill
