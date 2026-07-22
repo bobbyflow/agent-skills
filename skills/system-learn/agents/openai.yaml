@@ -1,0 +1,6 @@
+interface:
+  display_name: "System Learn"
+  short_description: "Build an expert organizing model of anything"
+  default_prompt: "Use $system-learn to build an expert organizing model of this concept in its current context."
+policy:
+  allow_implicit_invocation: false

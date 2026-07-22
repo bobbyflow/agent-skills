@@ -11,6 +11,10 @@ skills:
     path: skills/signal
     source_repo: https://github.com/bobbyflow/agent-skills
     description: Filters technical work into the minimum sufficient founder decision, concepts, proof, and noise.
+  - name: system-learn
+    path: skills/system-learn
+    source_repo: https://github.com/bobbyflow/agent-skills
+    description: Builds an expert organizing model of any concept or system through orientation, mapping, mechanisms, dynamics, and application.
   - name: orchestrator-coach
     path: skills/orchestrator-coach
     source_repo: https://github.com/bobbyflow/orchestrator-coach-skill
